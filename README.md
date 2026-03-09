@@ -1,19 +1,20 @@
-# 👋 Hi, I'm Jordan Marr
+# Jordan Marr
 
-**Architect of the Djinn ecosystem (fs-djinn) — F# source generation & tooling**
+F# is a beautiful and special language that so many of us love. And as such, it deserves to have _all the cool stuff_.
 
-I build intention‑revealing, developer‑friendly tools across the F# ecosystem.  
-My current focus is creating a cohesive suite of compile‑time and runtime libraries under the **fs-djinn** organization.
+The F# community has always been self‑reliant — we build our own tools, our own frameworks, and our own ecosystems. Over the years, many developers have consistently contributed high‑quality work that has shaped the community and made F# better for everyone. I’m grateful for that foundation, and I try to contribute back in the same spirit.
+
+My focus is on creating intention‑revealing tools and libraries that help the F# ecosystem feel complete, expressive, and satisfying to use.
 
 ---
 
 ## 🔮 Djinn Ecosystem (fs-djinn)
 
-I’m actively building the **Djinn ecosystem** — a set of F# source‑generation tools designed for clarity, performance, and architectural legibility.
+The **fs-djinn** organization is where I’m actively developing a cohesive suite of F# source‑generation and automation tools.
 
 👉 https://github.com/fs-djinn
 
-**Core projects:**
+**Current ecosystem projects:**
 
 - **FSharp.SourceDjinn** — compile‑time engine for typed source generation  
 - **Serde.FS** — high‑performance F# serialization  
@@ -21,15 +22,15 @@ I’m actively building the **Djinn ecosystem** — a set of F# source‑generat
 - **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit  
 - **Agent.NET** — agentic workflows for .NET  
 - **Copilot.Bridge** — automation + agent orchestration  
-- **fable-lit-fullstack-template** — modern fullstack F# + Lit template  
+- **fable-lit-fullstack-template** — fullstack F# + Lit template  
 
 ---
 
-## 🏆 Popular & Mature Projects
+## 🏆 Established & Widely Used Projects
 
-These libraries have gained traction and are widely used in the F# community:
+These libraries have gained adoption and remain part of my long‑term maintenance work:
 
-- **SqlHydra** — SQL schema → F# types & query helpers
+- **SqlHydra** — SQL schema → F# types & query helpers  
 - **FSharp.SystemCommandLine** — idiomatic F# bindings for System.CommandLine  
 - **ReactiveElmish.Avalonia** — reactive MVU for Avalonia UI  
 
@@ -37,7 +38,7 @@ These libraries have gained traction and are widely used in the F# community:
 
 ## 🎨 Fable, UI, and Frontend Ergonomics
 
-I enjoy building clean DSLs and ergonomic abstractions for frontend F# development:
+A collection of DSLs, bindings, and helpers focused on clean, expressive UI development:
 
 - **Fable.GroupingPanel** — CE for collapsible UI panels  
 - **Fable.FormValidation** — form validation helpers  
@@ -54,27 +55,23 @@ Developer‑experience helpers and small but useful libraries:
 
 - **SqlBulkTools.FSharp** — CE wrapper for a C# bulk insert library  
 - **FSharp.DurableExtensions** — helpers for Durable Functions  
-- **FSharp.ChordParser** — chord transposition tool (built for my dad)  
+- **FSharp.ChordParser** — chord transposition tool  
 
 ---
 
 ## 🧪 Early Projects & Experiments
 
-These represent my early F# learning journey and architectural explorations:
+Foundational projects from my early F# journey:
 
 - **FSharpChess** — my first F# project  
 - **AuctionHouseES** — event‑sourcing demo in F#  
 
 ---
 
-## 🌱 What I Care About
+## 🌱 Areas of Focus
 
 - Intention‑revealing architecture  
-- Developer ergonomics  
-- OSS stewardship & ecosystem clarity  
 - Typed, compile‑time tooling  
-- Building systems that scale with understanding  
-
----
-
-Thanks for stopping by — feel free to explore the fs-djinn ecosystem or any of the projects above.
+- Developer ergonomics  
+- OSS stewardship  
+- System legibility and maintainability  
