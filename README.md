@@ -34,8 +34,16 @@ These libraries have gained adoption and remain part of my long‑term maintenan
 - **SqlHydra** — SQL schema → F# types & query helpers  
 - **FSharp.SystemCommandLine** — idiomatic F# bindings for System.CommandLine  
 - **ReactiveElmish.Avalonia** — reactive MVU for Avalonia UI  
-- **Agent.NET** — agentic workflows for .NET
-  
+
+---
+
+## 🚀 Active & Emerging Projects
+
+These are projects I’m actively developing and consider important to my current work:
+
+- **Agent.NET** — agentic workflows for .NET  
+- **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future)  
+
 ---
 
 ## 🎨 Fable, UI, and Frontend Ergonomics
@@ -44,8 +52,8 @@ A collection of DSLs, bindings, and helpers focused on clean, expressive UI deve
 
 ### Fable.Lit
 - **fable-lit-fullstack-template** — fullstack F# + Lit template  
-- **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit
-- **Fable.Lit.Dsl.Shoelace** — Shoelace DSL
+- **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit  
+- **Fable.Lit.Dsl.Shoelace** — Shoelace DSL  
 
 ### Fable React / Feliz
 - **Fable.GroupingPanel** — CE for collapsible UI panels  
@@ -82,4 +90,4 @@ Foundational projects from my early F# journey:
 - Typed, compile‑time tooling  
 - Developer ergonomics  
 - OSS stewardship  
-- System legibility and maintainability  
+- System legibility and maintainability
