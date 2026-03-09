@@ -10,21 +10,33 @@ My focus is on creating intention‑revealing tools and libraries that help the 
 
 ## 🔮 Djinn Ecosystem (fs-djinn)
 
-The **fs-djinn** organization is where I’m actively developing a cohesive suite of F# source‑generation and automation tools.
+The **fs-djinn** organization is where I’m building a cohesive suite of F# source‑generation tools designed around clarity, intention‑revealing APIs, and compile‑time safety.
 
 👉 https://github.com/fs-djinn
 
-**Current ecosystem projects:**
+### Current projects
 
-- **FSharp.SourceDjinn** — compile‑time engine for typed source generation  
-- **Serde.FS** — high‑performance F# serialization  
-- **Serde.FS.SystemTextJson** — STJ backend for Serde.FS  
-- **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit  
-- **Agent.NET** — agentic workflows for .NET  
-- **Copilot.Bridge** — automation + agent orchestration  
-- **fable-lit-fullstack-template** — fullstack F# + Lit template  
+- **FSharp.SourceDjinn** — a small, focused engine for building F# source generators  
+- **Serde.FS** — high‑performance F# serialization with a clean, attribute‑based model  
+- **Serde.FS.Json** — System.Text.Json backend for Serde.FS  
 
----
+### Roadmap
+
+Some of the areas I’m exploring for the ecosystem:
+
+- **Source generator template**  
+  A project template for creating new SourceDjinn‑based generators, with a clean structure and minimal boilerplate.
+
+- **Codec support in Serde.FS**  
+  Extending Serde.FS with a codec layer so it can be used either as a source‑generated serializer or as a runtime codec library consumed by other tools.
+
+- **Additional Serde.FS backends**  
+  Exploring other serialization backends beyond System.Text.Json where a typed F# model would be valuable.
+
+- **New generator use cases**  
+  Identifying other areas where SourceDjinn and Serde.FS can provide ergonomic, compile‑time‑driven solutions within the F# ecosystem.
+
+--
 
 ## 🏆 Established & Widely Used Projects
 
@@ -36,10 +48,24 @@ These libraries have gained adoption and remain part of my long‑term maintenan
 
 ---
 
+## 🏆 Current ecosystem projects
+
+- **Agent.NET** — agentic workflows for .NET  
+- **Copilot.Bridge** — automation + agent orchestration  
+- **fable-lit-fullstack-template** — fullstack F# + Lit template  
+
+---
+
+
 ## 🎨 Fable, UI, and Frontend Ergonomics
 
 A collection of DSLs, bindings, and helpers focused on clean, expressive UI development:
 
+### Fable.Lit
+- **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit
+- **Fable.Lit.Dsl.Shoelace** — Shoelace DSL
+
+### Fable React / Feliz
 - **Fable.GroupingPanel** — CE for collapsible UI panels  
 - **Fable.FormValidation** — form validation helpers  
 - **Fable.FluentUI** — Fluent UI bindings  
