@@ -27,7 +27,7 @@ The **fs-djinn** organization is where I’m building a cohesive suite of F# sou
 
 ---
 
-## ⭐ Popular Projects
+## ⭐ Established & Widely Used Projects
 
 These libraries have gained adoption and remain part of my long‑term maintenance work:
 
