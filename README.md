@@ -21,20 +21,9 @@ The **fs-djinn** organization is where I’m building a cohesive suite of F# sou
 - **Serde.FS.Json** — System.Text.Json backend for Serde.FS  
 
 ### Roadmap
-
-Some of the areas I’m exploring for the ecosystem:
-
-- **Source generator template**  
-  A project template for creating new SourceDjinn‑based generators, with a clean structure and minimal boilerplate.
-
-- **Codec support in Serde.FS**  
-  Extending Serde.FS with a codec layer so it can be used either as a source‑generated serializer or as a runtime codec library consumed by other tools.
-
-- **Additional Serde.FS backends**  
-  Exploring other serialization backends beyond System.Text.Json where a typed F# model would be valuable.
-
-- **New generator use cases**  
-  Identifying other areas where SourceDjinn and Serde.FS can provide ergonomic, compile‑time‑driven solutions within the F# ecosystem.
+- SourceDjinn project template  
+- Codec support in Serde.FS (runtime + source‑generated)  
+- Additional Serde.FS backends  
 
 ---
 
