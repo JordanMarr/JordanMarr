@@ -16,9 +16,9 @@ The **fs-djinn** organization is where I’m building a cohesive suite of F# sou
 
 ### Current projects
 
-- **FSharp.SourceDjinn** — a small, focused engine for building F# source generators  
-- **Serde.FS** — high‑performance F# serialization with a clean, attribute‑based model  
-- **Serde.FS.Json** — System.Text.Json backend for Serde.FS  
+- **[FSharp.SourceDjinn](https://github.com/fs-djinn/FSharp.SourceDjinn)** — a small, focused engine for building F# source generators  
+- **[Serde.FS](https://github.com/fs-djinn/Serde.FS)** — high‑performance F# serialization with a clean, attribute‑based model  
+- **[Serde.FS.Json](https://github.com/fs-djinn/Serde.FS)** — System.Text.Json backend for Serde.FS  
 
 ### Roadmap
 - SourceDjinn project template  
@@ -31,9 +31,9 @@ The **fs-djinn** organization is where I’m building a cohesive suite of F# sou
 
 These libraries have gained adoption and remain part of my long‑term maintenance work:
 
-- **SqlHydra** — SQL schema → F# types & query helpers  
-- **FSharp.SystemCommandLine** — idiomatic F# bindings for System.CommandLine  
-- **ReactiveElmish.Avalonia** — reactive MVU for Avalonia UI  
+- **[SqlHydra](https://github.com/JordanMarr/SqlHydra)** — SQL schema → F# types & query helpers  
+- **[FSharp.SystemCommandLine](https://github.com/JordanMarr/FSharp.SystemCommandLine)** — idiomatic F# bindings for System.CommandLine  
+- **[ReactiveElmish.Avalonia](https://github.com/JordanMarr/ReactiveElmish.Avalonia)** — reactive MVU for Avalonia UI  
 
 ---
 
@@ -41,7 +41,7 @@ These libraries have gained adoption and remain part of my long‑term maintenan
 
 These are projects I’m actively developing and consider important to my current work:
 
-- **Agent.NET** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe.
+- **[Agent.NET](https://github.com/JordanMarr/Agent.NET)** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe.  
 - **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future)  
 
 ---
@@ -51,17 +51,17 @@ These are projects I’m actively developing and consider important to my curren
 A collection of DSLs, bindings, and helpers focused on clean, expressive UI development:
 
 ### Fable.Lit
-- **fable-lit-fullstack-template** — fullstack F# + Lit template  
-- **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit  
-- **Fable.Lit.Dsl.Shoelace** — Shoelace DSL  
+- **[fable-lit-fullstack-template](https://github.com/JordanMarr/fable-lit-fullstack-template)** — fullstack F# + Lit template  
+- **[Fable.Lit.Dsl](https://github.com/JordanMarr/Fable.Lit.Dsl)** — ergonomic DSL for Fable.Lit  
+- **[Fable.Lit.Dsl.Shoelace](https://github.com/JordanMarr/Fable.Lit.Dsl.Shoelace)** — Shoelace DSL  
 
 ### Fable React / Feliz
-- **Fable.GroupingPanel** — CE for collapsible UI panels  
-- **Fable.FormValidation** — form validation helpers  
-- **Fable.FluentUI** — Fluent UI bindings  
-- **Fable.ReactDataSheet** — bindings for React DataSheet  
-- **Fable.LitRuter** — router used in my Lit template  
-- **Feliz.UseIsVisible** — React hook for visibility detection  
+- **[Fable.GroupingPanel](https://github.com/JordanMarr/Fable.GroupingPanel)** — CE for collapsible UI panels  
+- **[Fable.FormValidation](https://github.com/JordanMarr/Fable.FormValidation)** — form validation helpers  
+- **[Fable.FluentUI](https://github.com/JordanMarr/Fable.FluentUI)** — Fluent UI bindings  
+- **[Fable.ReactDataSheet](https://github.com/JordanMarr/Fable.ReactDataSheet)** — bindings for React DataSheet  
+- **[Fable.LitRuter](https://github.com/JordanMarr/Fable.LitRuter)** — router used in my Lit template  
+- **[Feliz.UseIsVisible](https://github.com/JordanMarr/Feliz.UseIsVisible)** — React hook for visibility detection  
 
 ---
 
@@ -69,9 +69,9 @@ A collection of DSLs, bindings, and helpers focused on clean, expressive UI deve
 
 Developer‑experience helpers and small but useful libraries:
 
-- **SqlBulkTools.FSharp** — CE wrapper for a C# bulk insert library  
-- **FSharp.DurableExtensions** — helpers for Durable Functions  
-- **FSharp.ChordParser** — chord transposition tool  
+- **[SqlBulkTools.FSharp](https://github.com/JordanMarr/SqlBulkTools.FSharp)** — CE wrapper for a C# bulk insert library  
+- **[FSharp.DurableExtensions](https://github.com/JordanMarr/FSharp.DurableExtensions)** — helpers for Durable Functions  
+- **[FSharp.ChordParser](https://github.com/JordanMarr/FSharp.ChordParser)** — chord transposition tool  
 
 ---
 
@@ -79,8 +79,9 @@ Developer‑experience helpers and small but useful libraries:
 
 Foundational projects from my early F# journey:
 
-- **FSharpChess** — my first F# project  
-- **AuctionHouseES** — event‑sourcing demo in F#  
+- **[FSharpChess](https://github.com/JordanMarr/FSharpChess)** — my first F# project  
+- **[AuctionHouseES](https://github.com/JordanMarr/AuctionHouseES)** — event‑sourcing demo in F#  
+
 
 ---
 
