@@ -36,7 +36,7 @@ Some of the areas I’m exploring for the ecosystem:
 - **New generator use cases**  
   Identifying other areas where SourceDjinn and Serde.FS can provide ergonomic, compile‑time‑driven solutions within the F# ecosystem.
 
---
+---
 
 ## 🏆 Established & Widely Used Projects
 
