@@ -41,7 +41,7 @@ These libraries have gained adoption and remain part of my long‑term maintenan
 
 These are projects I’m actively developing and consider important to my current work:
 
-- **Agent.NET** — agentic workflows for .NET  
+- **Agent.NET** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe.
 - **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future)  
 
 ---
