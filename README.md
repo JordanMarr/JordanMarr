@@ -27,30 +27,23 @@ The **fs-djinn** organization is where I’m building a cohesive suite of F# sou
 
 ---
 
-## 🏆 Established & Widely Used Projects
+## ⭐ Popular Projects
 
 These libraries have gained adoption and remain part of my long‑term maintenance work:
 
 - **SqlHydra** — SQL schema → F# types & query helpers  
 - **FSharp.SystemCommandLine** — idiomatic F# bindings for System.CommandLine  
 - **ReactiveElmish.Avalonia** — reactive MVU for Avalonia UI  
-
+- **Agent.NET** — agentic workflows for .NET
+  
 ---
-
-## 🏆 Current ecosystem projects
-
-- **Agent.NET** — agentic workflows for .NET  
-- **Copilot.Bridge** — automation + agent orchestration  
-- **fable-lit-fullstack-template** — fullstack F# + Lit template  
-
----
-
 
 ## 🎨 Fable, UI, and Frontend Ergonomics
 
 A collection of DSLs, bindings, and helpers focused on clean, expressive UI development:
 
 ### Fable.Lit
+- **fable-lit-fullstack-template** — fullstack F# + Lit template  
 - **Fable.Lit.Dsl** — ergonomic DSL for Fable.Lit
 - **Fable.Lit.Dsl.Shoelace** — Shoelace DSL
 
