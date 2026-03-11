@@ -51,7 +51,8 @@ These are projects I’m actively developing and consider important to my curren
 A collection of DSLs, bindings, and helpers focused on clean, expressive UI development:
 
 ### Fable.Lit
-- **[fable-lit-fullstack-template](https://github.com/JordanMarr/fable-lit-fullstack-template)** — fullstack F# + Lit template  
+- **[fable-lit-fullstack-template](https://github.com/JordanMarr/fable-lit-fullstack-template)** — fullstack F# + Lit template
+- **[Fable.LitRouter](https://github.com/JordanMarr/Fable.LitRouter)** — router used in my Lit template  
 - **[Fable.Lit.Dsl](https://github.com/JordanMarr/Fable.Lit.Dsl)** — ergonomic DSL for Fable.Lit  
 - **[Fable.Lit.Dsl.Shoelace](https://github.com/JordanMarr/Fable.Lit.Dsl.Shoelace)** — Shoelace DSL  
 
@@ -60,7 +61,6 @@ A collection of DSLs, bindings, and helpers focused on clean, expressive UI deve
 - **[Fable.FormValidation](https://github.com/JordanMarr/Fable.FormValidation)** — form validation helpers  
 - **[Fable.FluentUI](https://github.com/JordanMarr/Fable.FluentUI)** — Fluent UI bindings  
 - **[Fable.ReactDataSheet](https://github.com/JordanMarr/Fable.ReactDataSheet)** — bindings for React DataSheet  
-- **[Fable.LitRouter](https://github.com/JordanMarr/Fable.LitRouter)** — router used in my Lit template  
 - **[Feliz.UseIsVisible](https://github.com/JordanMarr/Feliz.UseIsVisible)** — React hook for visibility detection  
 
 ---
