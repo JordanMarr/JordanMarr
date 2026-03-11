@@ -60,7 +60,7 @@ A collection of DSLs, bindings, and helpers focused on clean, expressive UI deve
 - **[Fable.FormValidation](https://github.com/JordanMarr/Fable.FormValidation)** — form validation helpers  
 - **[Fable.FluentUI](https://github.com/JordanMarr/Fable.FluentUI)** — Fluent UI bindings  
 - **[Fable.ReactDataSheet](https://github.com/JordanMarr/Fable.ReactDataSheet)** — bindings for React DataSheet  
-- **[Fable.LitRuter](https://github.com/JordanMarr/Fable.LitRuter)** — router used in my Lit template  
+- **[Fable.LitRouter](https://github.com/JordanMarr/Fable.LitRouter)** — router used in my Lit template  
 - **[Feliz.UseIsVisible](https://github.com/JordanMarr/Feliz.UseIsVisible)** — React hook for visibility detection  
 
 ---
