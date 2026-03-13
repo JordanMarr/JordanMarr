@@ -16,14 +16,18 @@ The **fs-djinn** organization is where I’m building a cohesive suite of F# sou
 
 ### Current projects
 
-- **[FSharp.SourceDjinn](https://github.com/fs-djinn/FSharp.SourceDjinn)** — a small, focused engine for building F# source generators  
 - **[Serde.FS](https://github.com/fs-djinn/Serde.FS)** — high‑performance F# serialization with a clean, attribute‑based model  
-- **[Serde.FS.Json](https://github.com/fs-djinn/Serde.FS)** — System.Text.Json backend for Serde.FS  
+- **[Serde.FS.Json](https://github.com/fs-djinn/Serde.FS)** — System.Text.Json backend for Serde.FS
+- **[FSharp.SourceDjinn](https://github.com/fs-djinn/FSharp.SourceDjinn)** — a small, focused engine for building F# source generators  
 
-### Roadmap
-- SourceDjinn project template  
-- Codec support in Serde.FS (runtime + source‑generated)  
-- Additional Serde.FS backends  
+---
+
+## 🚀 Active & Emerging Projects
+
+These are projects I’m actively developing and consider important to my current work:
+
+- **[Agent.NET](https://github.com/JordanMarr/Agent.NET)** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe. Built upon the [Microsoft Agent Framework](https://github.com/microsoft/agent-framework).
+- **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future)  
 
 ---
 
@@ -34,15 +38,6 @@ These libraries have gained adoption and remain part of my long‑term maintenan
 - **[SqlHydra](https://github.com/JordanMarr/SqlHydra)** — SQL schema → F# types & query helpers  
 - **[FSharp.SystemCommandLine](https://github.com/JordanMarr/FSharp.SystemCommandLine)** — idiomatic F# bindings for System.CommandLine  
 - **[ReactiveElmish.Avalonia](https://github.com/JordanMarr/ReactiveElmish.Avalonia)** — reactive MVU for Avalonia UI  
-
----
-
-## 🚀 Active & Emerging Projects
-
-These are projects I’m actively developing and consider important to my current work:
-
-- **[Agent.NET](https://github.com/JordanMarr/Agent.NET)** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe.  
-- **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future)  
 
 ---
 
