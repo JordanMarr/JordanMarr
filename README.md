@@ -1,4 +1,4 @@
-# Jordan Marr
+# Jordan Marr 👋
 
 F# is a beautiful and special language that so many of us love. And as such, it deserves to have _all the cool stuff_.
 
