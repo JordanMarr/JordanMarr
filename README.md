@@ -28,8 +28,11 @@ The **serde-fs** organization is where I’m building a cohesive suite of F# sou
 
 These are projects I’m actively developing and consider important to my current work:
 
-- **[Agent.NET](https://github.com/JordanMarr/Agent.NET)** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe. Built upon the [Microsoft Agent Framework](https://github.com/microsoft/agent-framework).
-- **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future)  
+- **[Agent.NET](https://github.com/JordanMarr/Agent.NET)** — a typed, intention‑revealing framework for building agentic workflows in .NET, designed to make automation and orchestration feel natural, composable, and safe. Built on the [Microsoft Agent Framework](https://github.com/microsoft/agent-framework).
+  - **AgentNet.InProcess** — lightweight, in‑process execution engine
+  - **AgentNet.InProcess.Polly** — resilience‑enhanced in‑process execution using Polly
+  - **AgentNet.Durable** — durable, distributed execution model for long‑running workflows
+- **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future) 
 
 ---
 
