@@ -17,7 +17,9 @@ The **serde-fs** organization is where I’m building a cohesive suite of F# sou
 ### Current projects
 
 - **[Serde.FS](https://github.com/serde-fs/Serde.FS)** — high‑performance F# serialization with a clean, attribute‑based model  
-- **[Serde.FS.Json](https://github.com/serde-fs/Serde.FS)** — System.Text.Json backend for Serde.FS
+- **[Serde.FS.Json](https://github.com/serde-fs/Serde.FS)** — the native, reflection‑free JSON backend for Serde.FS  
+- **[Serde.FS.SystemTextJson](https://github.com/serde-fs/Serde.FS) (WIP)** — compatibility layer for integrating Serde.FS with System.Text.Json ecosystems
+
 - **[FSharp.SourceDjinn](https://github.com/serde-fs/FSharp.SourceDjinn)** — a small, focused engine powering Serde.FS -- extracted as its own library to hopefully facilitate other F# source generators
 
 ---
