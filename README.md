@@ -8,17 +8,17 @@ My focus is on creating intention‑revealing tools and libraries that help the 
 
 ---
 
-## 🔮 Djinn Ecosystem (fs-djinn)
+## 📦 Serde.FS Ecosystem
 
-The **fs-djinn** organization is where I’m building a cohesive suite of F# source‑generation tools designed around clarity, intention‑revealing APIs, and compile‑time safety.
+The **serde-fs** organization is where I’m building a cohesive suite of F# source‑generation tools designed around clarity, intention‑revealing APIs, and compile‑time safety.
 
-👉 https://github.com/fs-djinn
+👉 https://github.com/serde-fs
 
 ### Current projects
 
-- **[Serde.FS](https://github.com/fs-djinn/Serde.FS)** — high‑performance F# serialization with a clean, attribute‑based model  
-- **[Serde.FS.Json](https://github.com/fs-djinn/Serde.FS)** — System.Text.Json backend for Serde.FS
-- **[FSharp.SourceDjinn](https://github.com/fs-djinn/FSharp.SourceDjinn)** — a small, focused engine for building F# source generators  
+- **[Serde.FS](https://github.com/serde-fs/Serde.FS)** — high‑performance F# serialization with a clean, attribute‑based model  
+- **[Serde.FS.Json](https://github.com/serde-fs/Serde.FS)** — System.Text.Json backend for Serde.FS
+- **[FSharp.SourceDjinn](https://github.com/serde-fs/FSharp.SourceDjinn)** — a small, focused engine powering Serde.FS -- extracted as its own library to hopefully facilitate other F# source generators
 
 ---
 
