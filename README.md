@@ -33,7 +33,6 @@ These are projects I’m actively developing and consider important to my curren
   - **AgentNet.InProcess** — lightweight, in‑process execution engine
   - **AgentNet.InProcess.Polly** — resilience‑enhanced in‑process execution using Polly
   - **AgentNet.Durable** — durable, distributed execution model for long‑running workflows
-- **Copilot.Bridge** — private project for automation + agent orchestration (may be made public in the future) 
 
 ---
 
