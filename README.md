@@ -17,8 +17,9 @@ The **serde-fs** organization is where I’m building a cohesive suite of F# sou
 ### Current projects
 
 - **[Serde.FS](https://github.com/serde-fs/Serde.FS)** — high‑performance F# serialization core types and attributes: `[<Serde>]` and `[<RpcApi>]`
-- **[Serde.FS.Json](https://github.com/serde-fs/Serde.FS)** — the native, reflection‑free JSON backend for Serde.FS
-- **[Serde.FS.Json.AspNet](https://github.com/serde-fs/Serde.FS)** — Provides a Serde RPC ASP.NET extension method.
+- **[Serde.FS.Json](https://github.com/serde-fs/Serde.FS)** — the native, reflection‑free JSON backend for Serde.FS and .NET RPC client. 
+- **[Serde.FS.AspNet](https://github.com/serde-fs/Serde.FS)** — Provides a Serde RPC ASP.NET extension method.
+- **[Serde.FS.Fable](https://github.com/serde-fs/Serde.FS)** — Provides a Serde RPC Fable RPC client.
 
 - **[FSharp.SourceDjinn](https://github.com/serde-fs/FSharp.SourceDjinn)** — a small, focused engine powering Serde.FS -- extracted as its own library to hopefully facilitate other F# source generators
 
